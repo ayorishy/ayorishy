@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">I'm growing up and losing my old self.</h3>
 <div align="center">
-  <a href="https://blog.nonly.cn/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
+  <a href="https://blog.nonly.cn/"><img src="https://img.shields.io/badge/Blog-博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/205067167"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="mailto:admin@nonly.cn"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
   <!--<img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu">-->
