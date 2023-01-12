@@ -1,5 +1,5 @@
 <div align="center">
- ![输入图片说明](header.png)
+ <img src="https://img.picgo.net/2023/01/13/work11705ec647f39a8d.gif"></img>
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
