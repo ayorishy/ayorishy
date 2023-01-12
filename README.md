@@ -1,5 +1,5 @@
 <div align="center">
-  !(work.gif)
+  ![输入图片说明](work.gif)
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
