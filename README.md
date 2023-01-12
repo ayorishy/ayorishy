@@ -1,4 +1,15 @@
 # Hi there I'm 1nonly 👋
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">
+</div>
+<h3 align="center">我在成长，也在丢失从前的自己。</h3>
+<div align="center">
+  <a href="https://www.tutime.cn/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
+  <a href="https://twitter.com/HiTuYes/"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="https://space.bilibili.com/498959589"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="mailto:me@hifurry.cn"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu">-->
+</div>
 <a href="https://nonly.cn">
   <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=1nonly&show_icons=true&theme=default" />
 </a>
