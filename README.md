@@ -14,7 +14,7 @@
 👀 I will only follow other people's code to get the function I need
 
 ## 📭 How to reach me
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inon1y&layout=compact" />
+<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=Inon1y" />
 
 - 📧 Email [Follow Up Here](mailto:admin@nonly.cn)
 
