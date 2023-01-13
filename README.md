@@ -33,4 +33,4 @@
 
 ## 📋 Magic Number
 
-![Visited By](https://count.getloli.com/get/@Inon1y?theme=rule34) ![visited By]([https://th.bing.com/th/id/R.beb2c2837db72e15907eef50ee46797b?rik=tjOwile3D50wNw&pid=ImgRaw&r=0](https://www.icegif.com/wp-content/uploads/icegif-2015.gif))
+![Visited By](https://count.getloli.com/get/@Inon1y?theme=rule34) ![visited By](https://www.icegif.com/wp-content/uploads/icegif-2015.gif)
