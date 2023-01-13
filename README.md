@@ -6,7 +6,7 @@
   <a href="https://blog.nonly.cn/"><img src="https://img.shields.io/badge/Blog-博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/205067167"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="mailto:admin@nonly.cn"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=ye-Inon1y">-->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ye-Inon1y">
 </div>
 <hr>
 <a href="https://nonly.cn">
