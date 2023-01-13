@@ -32,6 +32,4 @@
 - 📧 Email [Follow Up Here](mailto:admin@nonly.cn)
 
 ## 📋 Magic Number
-
-![Visited By](https://count.getloli.com/get/@Inon1y?theme=rule34)
 <img src="https://count.getloli.com/get/@Inon1y?theme=rule34" /><img src="https://www.icegif.com/wp-content/uploads/icegif-2015.gif" />
