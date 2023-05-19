@@ -28,8 +28,9 @@
 ## 📭 How to reach me
 <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=Inon1y&layout=compact" />
 
-- 📧 Email [Follow Up Here](mailto:admin@nonly.cn)
+- 📧 Email [Follow Up Here](mailto:1139074074@qq.com)
 - ✈️ Telegram [@1nonly](https://t.me/InonlyC)
+- 🐧 Kook [@1nonly]([https://t.me/InonlyC](https://kook.top/KX4cQx))
 
 ## 📋 Magic Number
 ![Visited By](https://count.getloli.com/get/@Inon1y?theme=rule34)
