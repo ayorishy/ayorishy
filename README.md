@@ -29,7 +29,7 @@
 <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=ayorishy&layout=compact" />
 
 - 📧 Email [Follow Up Here](mailto:1139074074@qq.com)
-- ✈️ Telegram [@ayorishy](https://t.me/InonlyC)
+- ✈️ Telegram [@ayorishy](https://t.me/ayorishy)
 - 🐧 Kook [@ayorishy](https://kook.top/KX4cQx)
 
 ## 📋 Magic Number
